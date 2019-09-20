@@ -16,7 +16,7 @@ subprojects {
   apply(plugin = "com.github.spotbugs")
   apply(plugin = "io.spring.dependency-management")
 
-  group = "com.github.stupremee"
+  group = "io.github.mela"
   version = "1.0.0"
 
   repositories {
